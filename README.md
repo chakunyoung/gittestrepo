@@ -8,7 +8,7 @@
 * git config --global user.name ...
 * git config --global user.email ...
 * git config --list
-*
+
 ***
 ### 깃 명령어
 * git init // 프로젝트 초기화
