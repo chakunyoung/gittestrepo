@@ -11,7 +11,7 @@
 * git status  // 로컬 저장소에서 추적을 하고있나 확인 
 * git add 파일명 // 로컬 저장소에서 추적하도록 허용
 * git add .
-* git commit // 로컬 저장소에 확인 시킴
+* git commit -m "메세지"// 로컬 저장소에 확인 시킴
 * git push // 원격 저장소에 올림
 
 * git log // 반영 commit 버전 확인
